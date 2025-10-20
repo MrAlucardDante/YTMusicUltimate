@@ -17,7 +17,7 @@ on:
 
       bundle_id:
         description: "BundleID (Optional)"
-        default: "com.google.ios.youtubemusic"
+        default: "mad.apps.youtubemusic"
         required: true
         type: string
 
